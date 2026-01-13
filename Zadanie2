@@ -1,0 +1,15 @@
+InterfaceAlias       : Ethernet 2
+InterfaceIndex       : 11
+InterfaceDescription : Intel(R) Ethernet Connection (17) I219-LM
+NetProfile.Name      : kswstghg.ksw.edu.pl
+IPv4Address          : 172.28.30.200
+IPv4DefaultGateway   : 172.28.30.10
+DNSServer            : 172.28.30.251
+                       172.28.30.252
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : kswstghg.ksw.edu.pl
+   IPv4 Address. . . . . . . . . . . : 172.28.30.200
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 172.28.30.10
